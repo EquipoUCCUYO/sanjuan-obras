@@ -2,8 +2,8 @@
 /.tmp
 /.sass-cache
 /bower_components
+/.vs
 .DS_Store
 .idea
 tmp
 config.js
-*.csv
