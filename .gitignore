@@ -3,6 +3,7 @@
 /.sass-cache
 /bower_components
 /.vs
+/dist
 .DS_Store
 .idea
 tmp
